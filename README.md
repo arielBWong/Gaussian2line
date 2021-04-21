@@ -11,3 +11,5 @@ For my projection code, I use the above inference results. There are still a few
 (1) projection line:  I can understand that if a projection line starts from zero as in following line v1, but what if a different line that does not pass zeros like v2?
 
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
+
+(2) inference process: 
