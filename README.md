@@ -13,3 +13,5 @@ For my projection code, I use the above inference results. There are still a few
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
 
 (2) inference process: 
+
+![reference line presentation](https://github.com/arielBWong/Gaussian2line/blob/main/images/linereps.png)
