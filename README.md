@@ -12,6 +12,6 @@ For my projection code, I use the above inference results. There are still a few
 
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
 
-(2) Inference process: A reference line is represented as follows. vT is assumed the same size as the give n-dimensional Gaussian process.  What confused me is that if x is n dimension, y is *NOT* on the n-dimensional space. It is  
+(2) Inference process: A reference line is represented as follows. vT is assumed the same size as the give n-dimensional Gaussian process.  What confused me is that if x is n dimension, y is **NOT** on the n-dimensional space. y becomes an random variable. 
 
 ![reference line presentation](https://github.com/arielBWong/Gaussian2line/blob/main/images/linereps.png)
