@@ -8,10 +8,10 @@ https://math.stackexchange.com/questions/1385624/projection-of-gaussian-distribu
 
 For my projection code, I use the above inference results. There are still a few question unclear. 
 
-(1) projection line:  I can understand that if a projection line starts from zero as in following line v1, but what if a different line that does not pass zeros like v2?
+(1) Projection line:  I can understand that if a projection line starts from zero as in following line v1, but what if a different line that does not pass zeros like v2?
 
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
 
-(2) inference process: 
+(2) Inference process: A reference line is represented as follows. vT is assumed the same size as the give n-dimensional Gaussian process.  What confused me is that if x is n dimension, y is *NOT* on the n-dimensional space. It is  
 
 ![reference line presentation](https://github.com/arielBWong/Gaussian2line/blob/main/images/linereps.png)
