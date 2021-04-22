@@ -14,10 +14,11 @@ For my projection code, I use the above inference results. There are still a few
 
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
 
-(2) Inference process:  Projection creates a new random variable (which is a scalar random variable), which can be represented as follows. 
+(2) New random variable:  Projection creates a new random variable (which is a scalar random variable), which can be represented as follows. 
 With this new random variable representation, we can infer the mean and variance of this new Gaussian distribution.
 
 ![reference line presentation](https://github.com/arielBWong/Gaussian2line/blob/main/images/linereps.png)
 
-(3)  The inference process
+(3)  The inference process 
+
 
