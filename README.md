@@ -12,9 +12,11 @@ For my projection code, I use the above inference results. But I still don't kno
 
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
 
+Original multivariant Gaussian distribution
+
 ![x multi-variant gaussian](https://github.com/arielBWong/Gaussian2line/blob/main/images/x.png)
 
-(2) New random variable:  Projection creates a new random variable (which is a scalar random variable), which can be represented as follows. 
+(2) NEW RANDOM VARIABLE:  Projection creates a new random variable (which is a scalar random variable), which can be represented as follows. 
 With this new random variable representation, we can infer the mean and variance of this new Gaussian distribution.
 
 ![reference line presentation](https://github.com/arielBWong/Gaussian2line/blob/main/images/linereps.png)
