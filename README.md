@@ -8,7 +8,7 @@ https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch14.pdf
 
 For my projection code, I use the above inference results. But I still don't know what it means to project to parallel line
 
-(1) Projection line:  how to project to v2?
+(1) Projection line:  what does it mean to project to v2?
 
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
 
