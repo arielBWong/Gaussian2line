@@ -20,6 +20,7 @@ With this new random variable representation, we can infer the mean and variance
 ![reference line presentation](https://github.com/arielBWong/Gaussian2line/blob/main/images/linereps.png)
 
 (3)  The inference process 
+
 ![mu inference](https://github.com/arielBWong/Gaussian2line/blob/main/images/mu.png)
 
 
