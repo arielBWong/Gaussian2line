@@ -10,11 +10,11 @@ https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch14.pdf
 
 For my projection code, I use the above inference results. There are still a few questions unclear. 
 
-(1) Projection line:  Projection creates a new random variable (which is a scalar random variable), which can be represented as follows:
+(1) Projection line:  how to project to v2?
 
 ![referenceline](https://github.com/arielBWong/Gaussian2line/blob/main/images/referencelines.png)
 
-(2) Inference process: A projection creates a new random variable y, and how 
+(2) Inference process:  Projection creates a new random variable (which is a scalar random variable), which can be represented as follows. Then based on this representation
 result is represented as follows, **NOT** reference line. vT is assumed the same size as the given n-dimensional Gaussian process.  What causes confusion is that y is **NOT** on the n-dimensional space. y becomes an random variable. Only x is on the n-dimensional space. vT is assumed of length 1 unit.  
 
 ![reference line presentation](https://github.com/arielBWong/Gaussian2line/blob/main/images/linereps.png)
