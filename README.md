@@ -1,14 +1,12 @@
-# Gaussian2line
+# Gaussian projection
 
 This is to record thought process on project n-dimentional Gaussian to a line.
-
-My problems exposed includes: inference ability on linear algebra is close to zero. I don't know how to use vector operators. 
 
 https://math.stackexchange.com/questions/1385624/projection-of-gaussian-distribution-along-a-vector
 
 https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch14.pdf
 
-For my projection code, I use the above inference results. There are still a few questions unclear. 
+For my projection code, I use the above inference results. But I still don't know what it means to project to parallel line
 
 (1) Projection line:  how to project to v2?
 
