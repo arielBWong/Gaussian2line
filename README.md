@@ -24,3 +24,4 @@ With this new random variable representation, we can infer the mean and variance
 ![mu inference](https://github.com/arielBWong/Gaussian2line/blob/main/images/mu.png)
 
 
+![sigma square inference](https://github.com/arielBWong/Gaussian2line/blob/main/images/sigma.png)
